@@ -1,0 +1,3 @@
+GET /another-page	250
+GET /example-page	500
+GET /third-page	250
